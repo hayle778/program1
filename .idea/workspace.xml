@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c15e61c2-0e85-414c-afa3-f129244ffb30" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="c15e61c2-0e85-414c-afa3-f129244ffb30" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/random1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/random1.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,8 +18,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Stuy1EM8SptMgu2stTt9hlwXQy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -25,18 +38,6 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration name="random1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -52,6 +53,18 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -64,11 +77,52 @@
       <updated>1572395463527</updated>
       <workItem from="1572395466682" duration="1676000" />
       <workItem from="1572397322763" duration="1562000" />
-      <workItem from="1572399130975" duration="280000" />
+      <workItem from="1572399130975" duration="905000" />
+      <workItem from="1572403559190" duration="598000" />
+      <workItem from="1572405376389" duration="598000" />
+      <workItem from="1572488560510" duration="598000" />
+      <workItem from="1572490372866" duration="555000" />
+      <workItem from="1572492373647" duration="598000" />
+      <workItem from="1572494195583" duration="586000" />
+      <workItem from="1572528101550" duration="111000" />
+      <workItem from="1572971666880" duration="11000" />
+      <workItem from="1572971694427" duration="10000" />
+      <workItem from="1574979221994" duration="103000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="643" height="213" key="GridCell.Tab.0.bottom" timestamp="1582597140661">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="643" height="213" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1582597140661" />
+    <state width="643" height="213" key="GridCell.Tab.0.center" timestamp="1582597140660">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="643" height="213" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1582597140660" />
+    <state width="643" height="213" key="GridCell.Tab.0.left" timestamp="1582597140660">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="643" height="213" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1582597140660" />
+    <state width="643" height="213" key="GridCell.Tab.0.right" timestamp="1582597140661">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="643" height="213" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1582597140661" />
   </component>
 </project>

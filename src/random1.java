@@ -1,29 +1,30 @@
 import java.lang.reflect.Array;
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
 public class random1 {
     public static void main(String[] args) {
-        Scanner input = new Scanner( System.in );
-        int intArray[] = new int[10];
-        System.out.println( "Enter number" );
+        String sentence = "flap jack are awesome!";
 
-        int userNo = 0;
+        Scanner metro = new Scanner( sentence );
 
-        for (int i = 0; i < 10; i++) {
-         System.out.println( "baby " );
-            (i) = 1 + userNo;
-            input.nextInt(10);
+     //  String sentence = "flap jack are awesome!";
 
+        ArrayList<String> words = new ArrayList<String>();
 
-
-      String  StringArray [] = {"belay, baby, haile, john, mike, naomi, haile, dave, abebe, kefa"}  ;
+        words.add("dopp");
+        words.add("cop");
+        words.add("poris");
 
 
-System.out.println( "print a random name " );
-    input.nextLine();
+        while(metro.hasNext()){
+           words.add(metro.next());
 
 
-}
-        }
+ }
+
+       System.out.println( words );
+
+         }
     }
